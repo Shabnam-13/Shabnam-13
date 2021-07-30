@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shabnam-13
+- 👋 Hi, I’m @Shabnam
 - 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on with other developers.
 - 📫 How to reach me shabi.hasan96@gmail.com
